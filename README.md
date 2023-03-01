@@ -2,7 +2,7 @@
 
 Data science bootcamp with 'adToy'
 
-Welearn 10 sprints during 4 month program.
+We learn 10 sprints during 4 month program.
 
 - Spreadsheets
 - SQL Database
