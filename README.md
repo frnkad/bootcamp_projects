@@ -6,7 +6,7 @@ We learn 10 sprints during 6 month program.
 
 - Spreadsheets
 - SQL Database
-  - https://replit.com/@NitikarnKadsrit/SQLHomeworkBatch6#main.sql
+  - Query -> https://replit.com/@NitikarnKadsrit/SQLHomeworkBatch6#main.sql
 - R Programming
   - Pao Ying Chub -> https://replit.com/@NitikarnKadsrit/Paoyingchub#main.r
   - Order Pizza -> https://replit.com/@NitikarnKadsrit/Order-Pizza#main.r
