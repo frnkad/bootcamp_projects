@@ -1,6 +1,6 @@
 # Bootcamp_Projects
 
-Data science bootcamp with 'adToy'
+Data science bootcamp with 'Datarockie'
 
 We learn 10 sprints during 6 month program.
 
@@ -23,5 +23,4 @@ We learn 10 sprints during 6 month program.
    - ML
 - Dashboard
 
-
-
+Badge: https://badgr.com/public/assertions/pbKKDo-DRFCoSirUZ7-Acg?action=download
