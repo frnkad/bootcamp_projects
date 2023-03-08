@@ -2,7 +2,7 @@
 
 Data science bootcamp with 'adToy'
 
-We learn 10 sprints during 4 month program.
+We learn 10 sprints during 6 month program.
 
 - Spreadsheets
 - SQL Database
@@ -17,7 +17,7 @@ We learn 10 sprints during 4 month program.
 - Intro to Python
   - Pao Ying Chub -> https://colab.research.google.com/drive/1Az4Qr68P_HkegvPjRK0YwNTXbtQvEMhp?usp=sharing
   - ATM -> https://colab.research.google.com/drive/1iiagblXza66m9m75drn2uAW_6XC_SmxZ?usp=sharing
-- Essential Python for Data Analyst
+- Essential Python for Data Analyst -> https://datalore.jetbrains.com/notebook/k6PoiTajayVSmRRMmYa3rZ/uMf1baMlL690ue92mrvLSL/
 - Dashboard
 
 
